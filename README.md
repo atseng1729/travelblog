@@ -1,5 +1,5 @@
 # Travel Photography Webpage
-A repository that generates the static webpage https://atseng1729.github.io/gallery.
+A repository that generates the static webpage https://atseng1729.github.io/travels.
 
 # Setup
 To run locally do the following:
