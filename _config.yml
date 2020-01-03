@@ -3,7 +3,7 @@
 #############################
 
 # The title that appears on the tab
-title: Arthur Tseng's Gallery
+title: Serendipity
 
 # The title on the web page
 full_name: Arthur Tseng
@@ -58,4 +58,4 @@ category_dir: /
 baseurl: /
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: atseng1729.github.io/gallery
+url: atseng1729.github.io/travels
