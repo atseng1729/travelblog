@@ -77,18 +77,15 @@ function addAlbum(name, data) {
 
 function reqListener() {
   var config = JSON.parse(this.responseText);
-  console.log(config);
   for (key in config) {
       addAlbum(key, config[key]);
   }
   lazyload();
 }
 
-console.log("reached here 1");
 window.onload = function() {
     var oReq = new XMLHttpRequest();
     oReq.addEventListener("load", reqListener);
     oReq.open("GET", "config.json");
     oReq.send();
 };
-console.log("reached here 2");
