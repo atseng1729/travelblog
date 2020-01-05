@@ -1,58 +1,28 @@
----
----
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <title>Serendipity</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/zoom.css">
+    <!-- <link rel="stylesheet" type="text/css" href="css/zoom.css"> -->
     <link rel="icon" href="/favicon.png" type="image/x-icon">
-    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
-    <script src="https://use.fontawesome.com/4c9066f1a6.js"></script>
-    <PHP echo shell_exec("python3 tools/setup.py")/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   </head>
-  <body bgcolor="#1b1b1b">
+  <body>
     <div id="container">
-      <h2 class="header">{{ site.full_name }}</h2>
+      <h2 class="header">Arthur Tseng</h2>
       <div id="gallery">
       </div>
     </div>
     <div class="footer">
       <div class="links">
-        <a id="instagram" class="links__icon" href="https://www.instagram.com/{{ site.instagram }}">
-          <span class="view-ig"> View {{ site.full_name }}'s Instagram </span>
+        <a id="instagram" class="links__icon" href="https://www.instagram.com/arthurtseng1729">
+          <span class="view-ig"> View Arthur Tseng's Instagram for More</span>
           <i class="fa fa-instagram fa-lg"></i>
         </a>
       </div>
     </div>
   </body>
-  <script
-    src="https://code.jquery.com/jquery-3.2.1.js"
-    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
-  <script src="js/transition.js"></script>
-  <script src="js/zoom.min.js"></script>
   <script src="js/gallery.js"></script>
-  <script>
-    var COLUMNS = 'columns';
-    var ROWS = 'rows';
-    var SQUARES = 'squares';
-
-    var columns = COLUMNS;
-    var rows = ROWS;
-    var squares = SQUARES;
-
-    var layoutStyle = {{ site.layout_style }};
-
-    var configuration = {
-      spacing: {{ site.spacing }},
-      shuffle: {{ site.shuffle }},
-      columns: {{ site.columns }},
-      maxHeight: {{ site.max_height }}
-    };
-  </script>
-  <script src="js/script.js"></script>
-  {% include ga.html %}
+  <!-- <script src="js/script.js"></script>
+  {% include ga.html %} --> -->
 </html>

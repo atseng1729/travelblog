@@ -86,7 +86,8 @@ def get_images(path):
         result.append({
             'width': width,
             'height': height,
-            'path': './' + RELATIVE_PATH + '/' + path + '/' + img
+            'path': './' + RELATIVE_PATH + '/' + path + '/' + img,
+            'desc': "Some<br>Text<br>Here"
         })
     return result
 
