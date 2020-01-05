@@ -75,17 +75,20 @@ function addAlbum(name, data) {
     }
 }
 
+function reqListener() {
+  var config = JSON.parse(this.responseText);
+  console.log(config);
+  for (key in config) {
+      addAlbum(key, config[key]);
+  }
+  lazyload();
+}
+
+console.log("reached here 1");
 window.onload = function() {
-    var xobj = new XMLHttpRequest();
-    xobj.overrideMimeType("application/json");
-    xobj.open('GET', '/config.json', true);
-    xobj.onreadystatechange = function () {
-        if (xobj.readyState == 4 && xobj.status == "200") {
-            json = JSON.parse(xobj.responseText);
-            for (key in json) {
-                addAlbum(key, json[key]);
-            }
-        }
-    };
-    xobj.send(null);
+    var oReq = new XMLHttpRequest();
+    oReq.addEventListener("load", reqListener);
+    oReq.open("GET", "config.json");
+    oReq.send();
 };
+console.log("reached here 2");
