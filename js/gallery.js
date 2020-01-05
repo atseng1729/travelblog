@@ -75,7 +75,7 @@ function addAlbum(name, data) {
     }
 }
 
-function addAllPhotos() {
+window.onload = function() {
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
     xobj.open('GET', '/config.json', true);
@@ -88,6 +88,4 @@ function addAllPhotos() {
         }
     };
     xobj.send(null);
-}
-
-addAllPhotos();
+};
