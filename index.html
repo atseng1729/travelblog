@@ -90,6 +90,8 @@
 
           document.getElementById("gallery").appendChild(albumDiv);
 
+          console.log(document.getElementById("gallery"));
+
           var colHeights = new Array(3).fill(0);
 
           for (var i = 0; i < data.length; i++) {
@@ -98,11 +100,11 @@
               var width = 500;
               var height = 500 * data[i]["height"] / data[i]["width"];
               colHeights[column] += height;
+              console.log(colHeights);
               addImage(appendId, data[i]["path"], data[i]["desc"], width + "px", height + "px");
           }
       }
 
-      console.log("reached here 1");
       window.onload = function() {
           var xobj = new XMLHttpRequest();
           xobj.overrideMimeType("application/json");
@@ -110,6 +112,7 @@
           xobj.onreadystatechange = function () {
               if (xobj.readyState == 4 && xobj.status == "200") {
                   json = JSON.parse(xobj.responseText);
+                  console.log(json);
                   for (key in json) {
                       addAlbum(key, json[key]);
                   }
@@ -117,7 +120,6 @@
           };
           xobj.send(null);
       };
-      console.log("reached here 2");
   </script>
   <!-- <script src="js/gallery.js"></script> -->
   <!-- <script src="js/script.js"></script>
