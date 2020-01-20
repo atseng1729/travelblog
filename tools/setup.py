@@ -10,6 +10,7 @@ import struct
 PATH = os.path.dirname(__file__) + '/../'
 RELATIVE_PATH = 'photos'
 PHOTO_PATH = PATH + RELATIVE_PATH
+DESC_JSON_PATH = PATH + 'desc/desc.json'
 
 
 def getImageInfo(data):
@@ -75,19 +76,28 @@ def get_directories():
     return list(filter(lambda x: os.path.isdir(PHOTO_PATH + '/' + x), items))
 
 
-def get_images(path):
+def get_descriptions():
+    with open(DESC_JSON_PATH) as f:
+        return json.load(f)
+
+
+def get_images(path, descriptions):
     images = list(sorted(os.listdir(PHOTO_PATH + '/' + path)))
 
     result = []
     for img in images:
         temp_path = './' + RELATIVE_PATH + '/' + path + '/' + img
+        try:
+            desc = descriptions[img].replace('\n', '<br>')
+        except:
+            desc = "Some<br>Text<br>Here"
         with open(temp_path, 'rb') as f:
             _, width, height = getImageInfo(f.read())
         result.append({
             'width': width,
             'height': height,
-            'path': './' + RELATIVE_PATH + '/' + path + '/' + img,
-            'desc': "Some<br>Text<br>Here"
+            'path': temp_path,
+            'desc': desc
         })
     return result
 
@@ -100,6 +110,7 @@ def write_config(config):
 if __name__=="__main__":
     config = {}
     directories = get_directories()
+    data = get_descriptions()
     for path in directories:
-        config[path] = get_images(path)
+        config[path] = get_images(path, data[path])
     write_config(config)
