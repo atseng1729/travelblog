@@ -38,9 +38,9 @@ function addAlbum(name, data) {
     var albumDiv = document.createElement("div");
     albumDiv.id = name;
 
-    var header = document.createElement("h3");
-    header.innerHTML = name;
-    albumDiv.appendChild(header);
+    // var header = document.createElement("h3");
+    // header.innerHTML = name;
+    // albumDiv.appendChild(header);
 
     var imgDiv = document.createElement("div");
     imgDiv.className = "img-columns";

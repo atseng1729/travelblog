@@ -1,172 +1,292 @@
 {
-  "Travel Photography": [
+  "Study Abroad": [
     {
-      "width": 3112,
-      "height": 4149,
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/01_barc_night_skyline.jpeg",
+      "desc": "Barceloneta Beach<br>January 6, 2020<br><br>"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF0138.jpg",
-      "desc": "This picture has special text woooo<br>"
+      "width": 1536,
+      "height": 1782,
+      "path": "./photos/Study Abroad/02_sagrada_familia.jpeg",
+      "desc": "Sagrada Familia<br>January 7, 2020<br><br>"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF0219.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/03_street_views.jpeg",
+      "desc": "Santa Caterina Streets<br>January 7, 2020<br><br>"
     },
     {
-      "width": 3266,
-      "height": 4899,
-      "path": "./photos/Travel Photography/DSCF0860.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 836,
+      "path": "./photos/Study Abroad/04_sea_boat.jpeg",
+      "desc": "La Vila Olimpica Pier<br>January 8, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1926,
+      "height": 1384,
+      "path": "./photos/Study Abroad/05_korean_war_painting.jpeg",
+      "desc": "Picasso Museum<br>January 9, 2020<br><br>"
     },
     {
-      "width": 5332,
-      "height": 3000,
-      "path": "./photos/Travel Photography/DSCF1252.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1428,
+      "height": 1854,
+      "path": "./photos/Study Abroad/06_gothic_bridge.jpeg",
+      "desc": "Bishop's Bridge<br>January 9, 2020<br><br>"
     },
     {
-      "width": 4898,
-      "height": 3265,
-      "path": "./photos/Travel Photography/DSCF1502.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/07_ampitheater.jpeg",
+      "desc": "Teatre Grec<br>January 9, 2020<br><br>"
     },
     {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Travel Photography/DSCF1802.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/08_bodega_biarritz.jpeg",
+      "desc": "Bodega Biarritz<br>January 9, 2020<br><br>"
     },
     {
-      "width": 2363,
-      "height": 3151,
-      "path": "./photos/Travel Photography/DSCF1894.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/09_catacombs.jpeg",
+      "desc": "Catacombs<br>January 11, 2020<br><br>"
     },
     {
-      "width": 2856,
-      "height": 3808,
-      "path": "./photos/Travel Photography/DSCF2242.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 1772,
+      "path": "./photos/Study Abroad/10_luxembourg_with_emma.jpeg",
+      "desc": "Luxembourg Garden with Emma<br>January 11, 2020<br><br>"
     },
     {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Travel Photography/DSCF3621.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1332,
+      "path": "./photos/Study Abroad/11_louvre.jpeg",
+      "desc": "Louvre<br>January 11, 2020<br><br>"
     },
     {
-      "width": 3264,
-      "height": 4080,
-      "path": "./photos/Travel Photography/DSCF4244.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/12_louvre_ceiling.jpeg",
+      "desc": "Louvre Ceiling<br>January 11, 2020<br><br>"
     },
     {
-      "width": 2611,
-      "height": 3264,
-      "path": "./photos/Travel Photography/DSCF4538.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 1593,
+      "path": "./photos/Study Abroad/13_seins.jpeg",
+      "desc": "Seins<br>January 11, 2020<br><br>"
     },
     {
-      "width": 3170,
-      "height": 3962,
-      "path": "./photos/Travel Photography/DSCF5636.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1479,
+      "height": 2004,
+      "path": "./photos/Study Abroad/14_shakespeare_co_stairway.jpeg",
+      "desc": "Shakespeare & Co<br>January 11, 2020<br><br>"
     },
     {
-      "width": 3154,
-      "height": 3943,
-      "path": "./photos/Travel Photography/DSCF5784.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/15_boqueria_market.jpeg",
+      "desc": "Boqueria Market<br>January 13, 2020<br><br>"
     },
     {
-      "width": 2719,
-      "height": 3399,
-      "path": "./photos/Travel Photography/DSCF7355.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/16_kiss_of_freedom.jpeg",
+      "desc": "Kiss of Freedom<br>January 13, 2020<br><br>"
     },
     {
-      "width": 3538,
-      "height": 4422,
-      "path": "./photos/Travel Photography/DSCF7399.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/17_aqueduct.jpeg",
+      "desc": "Tarragona Aqueduct<br>January 14, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8053.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/18_tarragona_streets.jpeg",
+      "desc": "Tarragona Streets<br>January 14, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8091.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/19_pyrenees.jpeg",
+      "desc": "Pyrenees Mountains<br>January 19, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8103.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 6342,
+      "height": 2466,
+      "path": "./photos/Study Abroad/20_massana_ski_resort.jpeg",
+      "desc": "Vallnord Ski Resort<br>January 19, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8196.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/21_andorra_bar.jpeg",
+      "desc": "Atelier Cocktail Bar<br>January 19, 2020<br><br>"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF8846.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/22_geneva_trees.jpeg",
+      "desc": "Geneva<br>January 24, 2020<br><br>"
     },
     {
-      "width": 3250,
-      "height": 4062,
-      "path": "./photos/Travel Photography/DSCF8958.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/23_geneva_light_show.jpeg",
+      "desc": "Geneva Light Show<br>January 24, 2020<br><br>"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8993.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/24_mont_saleve.jpeg",
+      "desc": "Mont Saleve<br>January 25, 2020<br><br>"
     },
     {
-      "width": 3311,
-      "height": 4415,
-      "path": "./photos/Travel Photography/IMG_0072.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/25_cabin.jpeg",
+      "desc": "Cabin on Mont Saleve<br>January 25, 2020<br><br>"
     },
     {
-      "width": 3797,
-      "height": 2848,
-      "path": "./photos/Travel Photography/IMG_7575.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/26_summit_restaurant.jpeg",
+      "desc": "L' Observatoire<br>January 27, 2020<br><br>"
     },
     {
-      "width": 2541,
-      "height": 3388,
-      "path": "./photos/Travel Photography/IMG_9863.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/27_sand_castle.jpeg",
+      "desc": "Barcelona Beach Sand Castles<br>January 29, 2020<br><br>"
     },
     {
-      "width": 2205,
-      "height": 2940,
-      "path": "./photos/Travel Photography/IMG_9966.jpg",
-      "desc": "Some<br>Text<br>Here"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/28_montserrat_trail.jpeg",
+      "desc": "Montserrat Hiking Trail<br>February 1, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/29_montserrat_views.jpeg",
+      "desc": "Monistrol de Montserrat<br>February 1, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/30_montserrat_town.jpeg",
+      "desc": "Montserrat<br>February 1, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/31_aesthetic_arches.jpeg",
+      "desc": "Aesthetic Arches<br>February 1, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/32_fc_stadium.jpeg",
+      "desc": "Camp Nou<br>February 2, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/33_paella.jpeg",
+      "desc": "Guell Tapas<br>February 7, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/34_park_guell.jpeg",
+      "desc": "Park Guell with Emma<br>February 8, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/35_smirnoff.jpeg",
+      "desc": "Smirnoff in La Orotava<br>February 13, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/36_tenerife_waves.jpeg",
+      "desc": "Tenerife Ocean Waves<br>February 13, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/37_chamorga.jpeg",
+      "desc": "Chamorga<br>February 14, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/38_abandoned_hut.jpeg",
+      "desc": "Abandoned Hut in Santa Cruz<br>February 14, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/39_anaga_views.jpeg",
+      "desc": "Edge of Anaga Mountains<br>February 14, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/40_tiede_road.jpeg",
+      "desc": "Tiede Road<br>February 15, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/41_tiede_sunset.jpeg",
+      "desc": "Tiede Sunset<br>February 15, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/42_tenerife_roads.jpeg",
+      "desc": "La Orotava Roads<br>February 16, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/43_bollulo_beach.jpeg",
+      "desc": "Bollulo Beach<br>February 16, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/44_horta_labyrinth.jpeg",
+      "desc": "Horta Labyrinth<br>February 23, 2020<br><br>"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Study Abroad/45_cemetery.jpeg",
+      "desc": "Barcelona Cemetery<br>February 25, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/46_dali_museum.jpeg",
+      "desc": "Dali Museum<br>February 27, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/47_wine_cellar.jpeg",
+      "desc": "Pares Balta Cava Cellar<br>March 5, 2020<br><br>"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Study Abroad/48_cannabis_icecream.jpeg",
+      "desc": "Cannabis Icecream from Gilda<br>March 6, 2020<br><br>"
     }
   ]
 }
